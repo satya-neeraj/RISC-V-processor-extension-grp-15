@@ -65,6 +65,7 @@ OUTPUT DESCRIPTION
   CORDIC - Iterative algorithm for trigonometric computations
 
 project structure:
+```text
 Project Root
 │
 ├── Design Sources
@@ -176,6 +177,7 @@ Project Root
 │       └── DUT : uart_tx.v
 │
 └── Utility Sources
+```
 
 ## Memory Files
 - imem.hex              → Main instruction memory
